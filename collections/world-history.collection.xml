@@ -1,0 +1,21 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Sanford Forte">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10258</md:content-id>
+    <md:title>World History </md:title>
+    <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License 1.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>da5b530b-e2e7-4a42-a916-cca4a89c9658</md:uuid>
+<md:slug>world-history</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>California World History, Culture and Geography: The Modern World - Grade Ten California State Curriculum Frameworks</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>(Untitled)</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
